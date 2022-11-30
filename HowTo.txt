@@ -1,0 +1,5 @@
+#HowTo - SHA128 Reverser
+Download wordlist from this link: https://www.mediafire.com/file/mz5q3i6jx1qcqje/plist.txt/file
+
+Don't want that word list or have your own?
+Rename your list to 'plist.txt' and put it in the same directory as 'SHA128 Reverser.exe'.
